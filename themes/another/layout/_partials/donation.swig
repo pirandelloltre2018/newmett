@@ -34,11 +34,11 @@
   </style>
   <div class="donation">
     <label class="text" for="donation">
-      如果你觉得文章对你有帮助，并且想为我买一杯咖啡，点这里～
+      
     </label>
-    <input type="checkbox" name="donation" id="donation">
+    
     <div class="img-box">
-      <img src="{{theme.donation}}" alt="donation" />
+      
     </div>
   </div>
 {% endif %}
