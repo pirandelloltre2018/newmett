@@ -4,7 +4,7 @@ date: 2018-05-16 11:54:13
 category: Football News
 ---
 
-![Football News](https://www.defendersofsteel.netcontent/images/2.jpg)
+![Football News](https://www.defendersofsteel.net/content/images/2.jpg)
 
 Manchester United boss Jose Mourinho claimed Liverpool never tested David de Gea on the second-half of Saturday's 2-1 win.
 
