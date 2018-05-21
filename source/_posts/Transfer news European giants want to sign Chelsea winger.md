@@ -4,7 +4,7 @@ date: 2018-02-13 00:04:13
 category: Chelsea
 ---
 
-![Chelsea](https://www.webhomelibrary.com/content/images/9.jpg)
+![Chelsea](https://www.defendersofsteel.net/content/images/9.jpg)
 
 Winger Kenedy’s loan proceed to Newcastle United is panning out very well indeed. Since moving to St. James’ Recreation area inin January, he possesses started all of their eight Premier League games, documenting 2 goals and 2 assists so far. His best functionality arrived last month at home against Southamptin, where he obtained a brace that included a wonderful solo effort. He alss create a late champion for Ayoze Perez against Huddersfield fourteen days ago. The Magpies will be on a work of 3 successive wins, and also have climbed up to 10th in the desk.
 
