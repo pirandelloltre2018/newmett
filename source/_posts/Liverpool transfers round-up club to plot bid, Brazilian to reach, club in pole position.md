@@ -4,7 +4,7 @@ date: 2018-03-12 00:02:00
 category: Liverpool
 ---
 
-![Liverpool](https://www.webhomelibrary.com/content/images/7.jpg)
+![Liverpool](https://www.defendersofsteel.net/content/images/7.jpg)
 
 Liverpool to plot massive bid for German giants €45m-rated star
 The Premier Group giants Liverpool will make an official bid for Borussia Dortmund’s starlet Christian Pulisic this summer, according to German outlet Bild. The Reds’ initial offer will be near to the €60 million.
