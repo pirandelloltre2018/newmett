@@ -4,7 +4,7 @@ date: 2018-03-11 00:00:00
 category: Liverpool
 ---
 
-![Liverpool](https://www.webhomelibrary.com/content/images/6.jpg)
+![Liverpool](https://www.defendersofsteel.net/content/images/6.jpg)
 
 Southampton youngster Kornelius Hansen has responded to recommendations that he could possibly be sold to Liverpool, admitting he would make the move however, not celebrate if he scored against Manchester United. 
 
