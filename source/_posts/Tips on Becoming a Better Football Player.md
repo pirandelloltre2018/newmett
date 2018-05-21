@@ -4,7 +4,7 @@ date: 2018-01-22 00:05:13
 category: Football Tips & Tricks
 ---
 
-![Football Tips & Tricks](https://www.webhomelibrary.com/content/images/10.jpg)
+![Football Tips & Tricks](https://www.defendersofsteel.net/content/images/10.jpg)
 
 They are tips that I developed from my using days. These tactics worked well for me personally and I expectation they can help others end up being the player they would like to be.
 
