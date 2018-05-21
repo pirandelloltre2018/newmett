@@ -5,7 +5,7 @@ category: Chelsea
 type: "categories"
 ---
 
-![Chelsea](https://www.webhomelibrary.com/content/images/8.jpg)
+![Chelsea](https://www.defendersofsteel.net/content/images/8.jpg)
 
 After spending over £70 million on the duo of Tiemoue Bakayoko and Danny Drinkwater previous summer, it looks like we will be at it again come early july. Central midfield continues to be a issue at Stamford Bridge, with Bakayoko flopping badly up to now, and Drinkwater hardly getting a game.
 
